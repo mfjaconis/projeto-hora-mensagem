@@ -6,6 +6,10 @@ header{
     text-align: center;
 }
 
+h1{
+    text-transform: uppercase;
+}
+
 section {
     background: white;
     border-radius: 10px;
