@@ -25,6 +25,10 @@ footer {
     font-style: italic ;
 }
 
+#msg {
+    font-weight: bold;
+}
+
 img {
     width: 250px;
     height: 250px;
@@ -35,4 +39,10 @@ img {
 div{
     text-align: center;
     padding: 8px;
+}
+
+@media screen and (max-width: 735px){
+    section{
+        max-width: 80%;
+    }
 }
